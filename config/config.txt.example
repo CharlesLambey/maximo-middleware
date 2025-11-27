@@ -1,0 +1,12 @@
+DRIVER=ODBC Driver 18 for SQL Server;
+SERVER=SERVER_NAME;
+DATABASE=DATABASE_NAME;
+UID=USERNAME;
+PWD=PASSWORD;
+TrustServerCertificate=yes;
+
+# ENDPOINT
+MAXIMO_ENDPOINT=https://maximo.example.com/api/soap?wsdl
+
+# Optionally enable test mode (True/False)
+TEST_MODE=True
