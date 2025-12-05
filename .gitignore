@@ -11,4 +11,5 @@ venv/
 config/config.txt
 dist/
 build/
+logs/
 *.spec
